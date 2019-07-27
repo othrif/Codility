@@ -1,5 +1,7 @@
 Tricks to solve codility problems in c++
 
+Here I provide code snippets for common code needed to solve problems.
+
 
 ``` c++
 
